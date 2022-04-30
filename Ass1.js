@@ -6,5 +6,5 @@ if (Campus_leader < 4500) {
 } else if (Campus_leader < 7500) {
   console.log("gega leader");0
 } else {
-  console.log("Tera leader");
+  console.log("Tera leader_:-)");
 }
